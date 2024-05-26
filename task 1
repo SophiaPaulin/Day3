@@ -1,0 +1,10 @@
+let objecy1 = { name:"Rezana", age:0.9};
+let object2 = { age:0.9, name:"Rezana"};
+
+console.log(a == b);
+//false
+
+let object1 = object2;
+
+console.log (object1 === object2);
+// true
