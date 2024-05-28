@@ -1,0 +1,89 @@
+{
+"basics": {
+      "name": "Sophia Paulin",
+      "label": "",
+      "image": "",
+      "email": "sobiyamary622@gmail.com",
+      "phone": "8220505163",
+      "degree": "M.A, M.Ed",
+      "website": "Your website URL",
+      "summary": "A one-sentence to one-paragraph overview text. Do not include any line-breaks.",
+      "location": {
+         "address": "467/4c, Rose villa, Suhum Hospital back side, Gogul nagar, Vallioor, Tirunelveli",
+         "postalCode": "627117",
+         "city": "Vallioor",
+         "countryCode": "+91",
+         "region": "Christian"
+    }
+},
+"profiles": [
+    {
+      "network": " LinkedIn",
+      "username": "Sophia Paulin",
+      "url": "https://www.linkedin.com/in/sophia-paulin-51b225308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+  ], 
+"education": [
+    {
+      "institution": "ST.Josephs Girls Higher Secondary School,",
+      "area": "Dindigul",
+      "studyType": "Regular",
+      "startDate": "2013 ",
+      "endDate": "2014",
+      "gpa": "69%",
+      "courses": [ 
+        "H.S.C"
+      ]
+    },
+    {
+        "institution": "ST.Xavier's College,",
+        "area": "Palayamkottai",
+        "studyType": "Regular",
+        "startDate": "2014",
+        "endDate": "2017",
+        "gpa": "45.5%",
+        "courses": [ 
+          "B.A"
+        ]
+      },
+      {
+        "institution": "Alagappa University,",
+        "area": "Karaikudi",
+        "studyType": "Ir-Regular",
+        "startDate": "2017",
+        "endDate": "2019",
+        "gpa": "56.8%",
+        "courses": [ 
+          "M.A"
+        ]
+      },
+      {
+        "institution": "Sri Ram Nallamani Yadava College of Education,",
+        "area": "Tenkasi",
+        "studyType": "Regular",
+        "startDate": "2019",
+        "endDate": "2021",
+        "gpa": "79.9%",
+        "courses": [ 
+          "B.Ed"
+        ]
+      },
+      {"institution": "Sri Ram Nallamani Yadava College of Education,",
+      "area": "Tenkasi",
+      "studyType": "Regular",
+      "startDate": "2021",
+      "endDate": "2023",
+      "gpa": "80%",
+      "courses": [ 
+        "M.Ed"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil, English",
+      "fluency": "Tamil"
+    }
+  ]
+} 
+

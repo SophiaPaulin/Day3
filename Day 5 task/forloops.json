@@ -1,0 +1,37 @@
+// 1. for in
+const object = { a: 1, b: 2, c: 3 };
+for (const property in object) {
+  console.log(`${property}: ${object[property]}`);
+}
+// "a: 1"
+// "b: 2"
+// "c: 3"
+
+// 2. for
+let str = '';
+for (let i = 0; i < 9; i++) {
+  str = str + i;
+}
+console.log(str);
+// "012345678"
+
+// 3. for of
+const array1 = ['a', 'b', 'c'];
+
+for (const element of array1) {
+  console.log(element);
+}
+//"a"
+//"b"
+//"c"
+
+// 4. forEach
+var data = {
+  "name": "ajay";
+  "email": "xxx622@gmai.com";
+};
+Object.keys(data). forEach(function(key) {
+   console.log('key : ' + key + ', value:' + data[key])
+})
+// name: ajay
+// email: xxx622@gmail.com
